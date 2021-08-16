@@ -1,5 +1,5 @@
-const dark = {
-  title: "dark",
+const light = {
+  title: "light",
 
   colors: {
     primary: "#ffffff",
@@ -9,4 +9,4 @@ const dark = {
   }
 };
 
-export default dark;
+export default light;
